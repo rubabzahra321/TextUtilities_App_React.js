@@ -1,0 +1,17 @@
+.textarea{
+    margin: 20px;
+    
+}
+body{
+    background-color: black;
+}
+/* .navbar{
+    background-color:#D3D3D3;
+} */
+
+.mode{
+    margin-left: 600px;
+    border: none;
+    box-shadow: 0 0 2px;
+    border-radius: 5px;
+}
