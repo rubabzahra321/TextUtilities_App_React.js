@@ -1,12 +1,50 @@
-# React + Vite
+# 📝 TextUtilities-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A handy text manipulation tool built with **React** and **React-Bootstrap**.  
+TextUtilities helps you transform, analyze, and preview text quickly and efficiently.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **Text Transformation** – Convert text to **uppercase** or **lowercase**.  
+- **Grammar Check** – Automatically ensures sentences start with a capital letter and end with a period.  
+- **Find & Replace** – Search for a word and replace it with another (case-insensitive option included). You can also remove a word entirely.  
+- **Live Summary** – View word count, character count, and estimated reading time in real-time.  
+- **Preview Mode** – Preview your text with a **highlight function** for searched words.  
+- **User Interface**  
+  - Responsive navigation bar with an **About** page.  
+  - Toggle between **light** 🌞 and **dark** 🌙 modes for better readability.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **React** – Core UI framework  
+- **React-Bootstrap** – For styling and UI components  
+- **JavaScript (ES6+)** – Application logic  
+
+---
+
+## 🚀 Installation
+
+To run this project locally:  
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/textutilities-app.git
+cd textutilities-app
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+The application will be available at http://localhost:3000
+
+🤝 Contributing
+Contributions are welcome! 🎉
+Feel free to fork the repo, submit issues, or open pull requests.
+
+📜 License
+This project is licensed under the MIT License
